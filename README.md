@@ -57,3 +57,5 @@ This repository contains the configuration files and verification notes for the 
 - Verified OSPF neighbors using `show ip ospf neighbor` (State: FULL).
 - Verified routing table via `show ip route`.
 - Tested end-to-end connectivity using ICMP (`ping 192.168.3.3` from PC-A).
+
+![Ping Test](screenshots/ping-test.png)

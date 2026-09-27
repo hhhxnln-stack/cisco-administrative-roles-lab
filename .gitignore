@@ -1,0 +1,7 @@
+# VS Code & Codespaces
+.vscode/
+.DS_Store
+
+# Temporary Packet Tracer backups
+*.tmp
+*.bak
